@@ -9,14 +9,15 @@ Should have Java 11.X, gradle 6.X, appium 1.22.0 as well as Android SDK on the s
 Device Name - OnePlus 5 <br>
 Android version - 9.0
 
-####Step by Step guide
+####Step by Step guide 📜 <br>
+
 1.Take a clone of the repo from the github link
 
 2.Run ```gradle build``` command to get all the dependency for the project and run the test from test runner
 
 3.Also, you can run the scenario straight from cucumber feature file
 
-#### Reporting
+#### Reporting ✅
 
 For the run you should be able to see the reports as enlisted below
 
