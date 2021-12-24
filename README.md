@@ -2,7 +2,7 @@
 
 Created using Java, Appium and Cucumber BDD framework for WhatsApp mobile application
 
-####Prerequisite for this project
+#### Prerequisite for this project
 
 Should have Java 11.X, gradle 6.X, appium 1.22.0 as well as Android SDK on the system and for mobile app you should have apk installed on the connected devices.
 
