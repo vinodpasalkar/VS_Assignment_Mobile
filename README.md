@@ -21,3 +21,7 @@ Android version - 9.0
 For the run you should be able to see the reports as enlisted below
 
 ![Report](mobile_report.png)
+
+#### Demo 📹
+
+![demo](demo.gif)
