@@ -9,7 +9,7 @@ Should have Java 11.X, gradle 6.X, appium 1.22.0 as well as Android SDK on the s
 Device Name - OnePlus 5 <br>
 Android version - 9.0
 
-####Step by Step guide 📜 <br>
+#### Step by Step guide 📜 <br>
 
 1.Take a clone of the repo from the github link
 
